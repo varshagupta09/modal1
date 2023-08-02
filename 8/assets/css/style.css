@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.nav{
+    display: flex;
+}
+
+.nav-item{
+    margin: 1%;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #327FFD;
+
+}
+
+.active{
+    color: #327FFD;
+}
+
+
+.disabled{
+    color: gray;
+}
+
+li{
+    list-style-type: none;
+}

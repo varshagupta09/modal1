@@ -1,0 +1,67 @@
+/* Write your CSS here */
+body{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    padding: 25%;
+}
+
+.btn{
+    border-radius: 10%;
+    height: 30px;
+    margin: 2px;
+    border: none;
+}
+
+.btn-primary{
+    background-color: #0C6DFD;
+    color: white;
+}
+
+.btn-secondary{
+    background-color: #6C757D;
+    color: white;
+}
+
+.btn-success{
+    background-color: #198753;
+    color: white;
+}
+
+.btn-danger{
+    background-color: #DC3444;
+    color: white;
+}
+
+.btn-warning{
+    background-color: #FFC007;
+    color: black;
+
+
+}
+
+.btn-info{
+    background-color: #07CAF0;
+    color: black;
+
+}
+
+.btn-light{
+    background-color: #FFFFFF;
+    color: black;
+
+}
+
+.btn-dark{
+    background-color: #212529;
+    color: white;
+
+}
+
+.btn-link{
+    background-color: #FFFFFF;
+    color: blue;
+    text-decoration: underline;
+
+}

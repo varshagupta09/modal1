@@ -1,0 +1,67 @@
+/* Write your CSS here */
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10%;
+}
+
+.alert{    
+
+    justify-content: center;
+    align-items: left;
+    height: 50px;
+    width: 500px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1%;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+
+
+.alert-primary{
+    background-color: #CFE1FE;
+    color:#5884cd ;
+}
+
+
+.alert-secondary{
+    background-color: #E2E3E5;
+    color: #707787;
+}
+
+.alert-success{
+    background-color: #D2E6DD;
+    color: #4e9b78;
+}
+
+.alert-danger{
+    background-color: #F8D7D9;
+    color: #c9676d;
+}
+
+.alert-warning{
+    background-color: #FFF2CD;
+    color: #e2b538;
+}
+
+
+.alert-info{
+    background-color: #CEF4FD;
+    color: #3bd0f2;
+}
+
+.alert-light{
+    background-color: #FEFEFE;
+    color: #e9adad;
+}
+
+.alert-dark{
+    background-color: #D3D3D4;
+    color: #5b5b65;
+}

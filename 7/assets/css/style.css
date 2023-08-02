@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-group{
+    border: .5px solid gray;
+    padding: 5%;
+}
+
+.list-group-item{
+    list-style-type: none;
+    border: .25px solid gray;
+    height: 10px;
+    width: 60%;
+    padding: 2%;
+}

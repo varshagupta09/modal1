@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+*{
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-secondary{
+    background-color: #6C757D;
+    border: 1px solid #6c757D;
+    border-radius: 8%;
+    color:white;
+    padding: 5px;
+}

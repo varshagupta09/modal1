@@ -1,0 +1,24 @@
+/* Write your CSS here */
+body{
+    border: .5px solid gray;
+    border-radius: 4px;
+}
+.form-check{
+display: block;
+}
+
+/* .form-check-input{
+
+}
+
+.form-check-label{
+
+}
+
+#flexCheckChecked{
+
+}
+
+#flexCheckDefault{
+
+} */
